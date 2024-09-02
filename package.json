@@ -1,0 +1,20 @@
+{
+	"name": "esm-dirname-polyfill",
+	"version": "1.0.0",
+	"main": "./src/polyfill.js",
+	"type": "module",
+	"scripts": {
+		"test": "node ./tests/test.js"
+	},
+	"keywords": [
+		"es", "esm", "esmodule",
+		"dirname", "__dirname", "filename", "__filename",
+		"import", "import.meta"
+	],
+	"author": "Jianwei Qin <304586351@qq.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jianweiqin/esm-dirname-polyfill"
+	}
+}
